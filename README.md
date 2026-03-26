@@ -1,7 +1,7 @@
-# Bitget Snipe Bot
+# Bybit Snipe Bot
 
-A powerful Telegram sniping bot for **Bitget** USDT-M futures.  
-The bot monitors selected Telegram channels for new token listings or delisting and automatically opens **LONG** /**SHORT** positions with built-in risk management.
+A  Telegram sniping bot for Bybit USDT-M futures.  
+The bot monitors selected Telegram channels for new token listings or delisting and automatically opens LONG positions with built-in risk management.
 
 ## Features
 
